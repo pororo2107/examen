@@ -1,6 +1,6 @@
 init_value = 1
 i=1
-xl=-1
+xl=0
 xu=1
 e(i)=10
 
